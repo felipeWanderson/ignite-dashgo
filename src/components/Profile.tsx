@@ -1,6 +1,6 @@
-import { Flex, Box, Text, Avatar } from "@chakra-ui/react";
-import {Notification} from './Notifications'
-import { User } from "./User";
+import { Flex } from "@chakra-ui/react";
+import {Notification} from './Profile/Notifications'
+import { User } from "./Profile/User";
 
 const user = {
   name: 'Felipe Leal',

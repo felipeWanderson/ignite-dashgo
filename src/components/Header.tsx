@@ -1,7 +1,7 @@
 import { Flex } from "@chakra-ui/react";
 import {Logo} from './Header/Logo';
 import { SearchBox } from './Header/SearchBox';
-import {Profile} from "../components/Profile/Profile"
+import {Profile} from "../components/Profile"
 
 export function Header() {
   return (
